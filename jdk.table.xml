@@ -1,0 +1,72 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (C:\Program Files\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Program Files\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1282051629" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="B:\Python\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3" type="simple" />
+            <root url="file://B:/Python/venv" type="simple" />
+            <root url="file://B:/Python/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Program Files/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1914568061" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://C:/spark-2.1.0-bin-hadoop2.7/python" type="simple" />
+            <root url="jar://C:/spark-2.1.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://C:/spark-2.1.0-bin-hadoop2.7/python" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="jar://C:/spark-2.1.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
+      </additional>
+    </jdk>
+  </component>
+</application>
